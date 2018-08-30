@@ -38,7 +38,7 @@ namespace dotnet
 
             return arr;
         }
-
+    
         public static int binarySearch(int[] arr, int search) {
             return binarySearch(arr, search, 0, arr.Length - 1);
         }

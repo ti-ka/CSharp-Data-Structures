@@ -7,7 +7,7 @@ namespace dotnet
     {
         static void Main(string[] args)
         {
-            Queue.Test();
+            BinaryTree.Test();
         }
     
     }
